@@ -7,8 +7,8 @@ This project focuses on image inpainting using Generative Adversarial Networks (
 - **data**: Contains datasets used for training and testing.
 - **models**: Includes the GAN model architecture and any additional models or modules.
 - **utils**: Utility functions and scripts for data preprocessing, evaluation, and visualization.
-- **train.py**: Main script for training the GAN model.
-- **test.py**: Script for testing and evaluating the trained model.
+- **Cifar10Inpainting.ipynb**: Main script for training the GAN model.
+
   
 
 ## Requirements
