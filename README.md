@@ -2,7 +2,7 @@
 
 ## Overview
 This project focuses on image inpainting using Generative Adversarial Networks (GANs). The goal is to develop a model capable of filling missing or damaged parts in images with realistic and visually appealing content.
-This prohject is still underconstruction
+
 
 ## Project Structure
 - **data**: Contains datasets used for training and testing based Cifar10.
